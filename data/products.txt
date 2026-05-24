@@ -1,0 +1,5 @@
+# id|name|price|stock
+1|Laptop Dell|2200.0|0
+2|Smart phone|500.0|0
+3|samsung|100.0|0
+4|Desktop|6000.0|0
